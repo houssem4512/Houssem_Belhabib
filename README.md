@@ -1,10 +1,10 @@
 <p align="center">
   <img src="[(https://github.com/houssem4512/Houssem_Belhabib/blob/main/banner.png?raw=true)](https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner.png
 )" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner.png" width="100%" style="border-radius:12px;" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Houssem Belhabib</h1>
-<h3 align="center">Data Science Engineering Student | Machine Learning Enthusiast | BI & Full Stack Developer</h3>
+r</h3>
 
 ---
 
