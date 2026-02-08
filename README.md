@@ -50,15 +50,15 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 ### 📊 Data Science & Analytics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikit" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" height="40" title="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_logo.svg" height="40" title="Anaconda"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Kaggle_logo.svg" height="40" title="Kaggle"/>
 </p>
 
-### 📈 Business Intelligence & Data Analytics Tools
+### 📈 Business Intelligence Tools
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Tableau_Logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Kaggle_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" height="40" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Tableau_Logo.svg" height="40" title="Tableau"/>
 </p>
 
 ### 🗄️ Databases
@@ -86,15 +86,15 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=houssem4512&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houssem4512&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssem4512&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=houssem4512&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -131,13 +131,6 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 I aim to contribute to innovative projects in **Data Science, Machine Learning, Business Intelligence, and Software Engineering**, while continuously improving my technical skills and collaborating on meaningful projects.
 
 ---
-
-## 🙏 Thank You
-
-Thank you for visiting my GitHub profile!  
-Feel free to explore my repositories, collaborate on projects, or connect for knowledge sharing and professional opportunities.  
-
-⭐ If you like my projects, don’t forget to star them!
 
 ## 🙏 Thank You
 
