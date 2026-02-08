@@ -33,38 +33,42 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 ## 🧠 Technical Skills & Expertise
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,c" height="40"/>
 </p>
 
 ### 🌐 Web & Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,laravel,spring" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,laravel,spring" height="40"/>
 </p>
 
 ### 🐍 Python Frameworks / ML / AI
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,jupyter" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,jupyter" height="40"/>
 </p>
 
 ### 📊 Data Science & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikit" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikit" height="40"/>
 </p>
 
 ### 📈 Business Intelligence & Data Analytics Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau,kaggle,anaconda" />
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Tableau_Logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anaconda_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Kaggle_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg" height="40"/>
 </p>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
 </p>
 
 ### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" height="40"/>
 </p>
 
 ---
@@ -107,16 +111,16 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="YOUR_PORTFOLIO">
-    <img src="https://skillicons.dev/icons?i=website" />
+    <img src="https://skillicons.dev/icons?i=website" height="40" />
   </a>
   <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
-    <img src="https://skillicons.dev/icons?i=kaggle" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Kaggle_logo.svg" height="40"/>
   </a>
 </p>
 
@@ -127,6 +131,13 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 I aim to contribute to innovative projects in **Data Science, Machine Learning, Business Intelligence, and Software Engineering**, while continuously improving my technical skills and collaborating on meaningful projects.
 
 ---
+
+## 🙏 Thank You
+
+Thank you for visiting my GitHub profile!  
+Feel free to explore my repositories, collaborate on projects, or connect for knowledge sharing and professional opportunities.  
+
+⭐ If you like my projects, don’t forget to star them!
 
 ## 🙏 Thank You
 
