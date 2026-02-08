@@ -1,95 +1,75 @@
-<p align="center">
-  <img src="[(https://github.com/houssem4512/Houssem_Belhabib/blob/main/banner.png?raw=true)](https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner.png
-)" width="100%" />
+<!-- ===================== HEADER / BANNER ===================== -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner1.png" width="100%" style="border-radius:12px;" />
 </p>
-r</h3>
+
+<h1 align="center">Hi 👋, I'm Houssem Belhabib</h1>
+<h3 align="center">Data Science Engineering Student | AI & ML Enthusiast | Full Stack Developer</h3>
 
 ---
 
 ## 🎓 Introduction
 
-I am currently a **2nd-year Engineering student specializing in Data Science**.  
-I am passionate about transforming data into meaningful insights and developing intelligent and scalable applications. I enjoy working on machine learning models, business intelligence solutions, and full-stack software projects.
+I am a **2nd-year Engineering student specializing in Data Science**.  
+I am passionate about transforming data into meaningful insights and building intelligent, scalable applications.  
+I enjoy working on **Machine Learning models**, **Business Intelligence solutions**, and **full-stack development projects**.
 
-My goal is to combine data analysis, artificial intelligence, and software development to solve real-world problems and create impactful digital solutions.
+My goal is to combine **data analysis, AI, and software development** to solve real-world problems and deliver impactful solutions.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 📊 Data Science Engineering Student (2nd Year)  
-- 🤖 Interested in Machine Learning & Artificial Intelligence  
-- 📈 Passionate about Business Intelligence and Data Visualization  
+- 🤖 Interested in Machine Learning & AI  
+- 📈 Passionate about Business Intelligence & Data Visualization  
 - 💻 Experienced in Full Stack Development  
 - 🚀 Continuously learning and exploring new technologies  
 - 🧠 Strong analytical and problem-solving mindset  
 
 ---
 
-## 🧠 Technical Skills
-
-### 📊 Data Science & Machine Learning
-- Data Preprocessing & Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Supervised & Unsupervised Learning  
-- Model Evaluation & Optimization  
-- Feature Engineering  
-
-### 📉 Business Intelligence
-- Dashboard Development  
-- Data Visualization  
-- Reporting & Data Interpretation  
-- Power BI  
-
----
-
-## 🛠️ Technical Expertise
+## 🧠 Technical Skills & Expertise
 
 ### 💻 Programming Languages
-- Python  
-- Java  
-- PHP  
-- JavaScript  
-- C  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,c" />
+</p>
 
-### 🤖 Machine Learning & Data Libraries
-- Scikit-Learn  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+### 🌐 Web & Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,laravel,spring" />
+</p>
 
-### 🌐 Web Development
-- React.js  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- Node.js  
-- Express.js  
-- Laravel  
-- Spring Boot  
+### 🐍 Python Frameworks / AI
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
 
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
+### 🗄️ Databases & Data Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,numpy,matplotlib,seaborn" />
+</p>
+
+### 📊 Business Intelligence / Data Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,kaggle,excel" />
+</p>
 
 ### ⚙️ Tools & Technologies
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux  
-- Docker / Podman  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
 
 ---
 
 ## 📌 Areas of Interest
 
-- Artificial Intelligence  
-- Predictive Modeling  
-- Data Visualization  
-- Full Stack Development  
+- Artificial Intelligence & Machine Learning  
+- Predictive Modeling & Data Analysis  
+- Business Intelligence & Data Visualization  
+- Full Stack Web & Mobile Development  
 - Software Engineering  
 
 ---
@@ -120,17 +100,32 @@ My goal is to combine data analysis, artificial intelligence, and software devel
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK  
-- 📧 Email: YOUR_EMAIL  
-- 🌐 Portfolio: YOUR_PORTFOLIO (if available)
+<p>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://skillicons.dev/icons?i=website" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Professional Vision
 
-I am motivated to contribute to innovative projects in data science, artificial intelligence, and software engineering while continuously improving my technical expertise and collaborative skills.
+I aim to contribute to innovative projects in **data science, AI, BI, and software engineering** while continuously improving my technical skills and collaborating on meaningful projects.
 
 ---
+
+## 🙏 Thank You
+
+Thank you for visiting my GitHub profile.  
+Feel free to explore my repositories, collaborate on projects, or connect for knowledge sharing and professional opportunities.  
+
+⭐ If you find my projects useful, don’t forget to star them!
 
 ## 🙏 Thank You
 
